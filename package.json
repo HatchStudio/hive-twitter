@@ -1,0 +1,13 @@
+{
+  "name": "heroku-node",
+  "description": "Our sample Node to Heroku app",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
